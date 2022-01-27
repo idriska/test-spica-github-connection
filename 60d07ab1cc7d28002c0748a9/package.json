@@ -1,0 +1,13 @@
+{
+  "name": "test-user duels dashboard",
+  "description": "Test User Duels Dashboard",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {}
+}

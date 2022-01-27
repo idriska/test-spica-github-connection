@@ -1,0 +1,12 @@
+{
+  "name": "httptest",
+  "description": "test",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "auth-api",
+  "description": "2FA user authentication",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@spica-devkit/bucket": "^0.8.8",
+    "@spica-devkit/database": "^0.8.8",
+    "@spica-devkit/identity": "^0.8.8"
+  }
+}

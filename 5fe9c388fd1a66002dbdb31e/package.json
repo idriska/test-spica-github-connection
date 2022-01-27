@@ -1,0 +1,16 @@
+{
+  "name": "Bad Words Dep",
+  "description": "Bad Words",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "nodemailer": "^6.4.17"
+  }
+}

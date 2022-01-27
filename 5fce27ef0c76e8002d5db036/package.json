@@ -1,0 +1,15 @@
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "json2csv": "^5.0.6"
+  }
+}

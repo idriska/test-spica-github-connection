@@ -1,0 +1,17 @@
+{
+  "name": "saml-identity provider",
+  "description": "saml idp",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@spica-devkit/identity": "^0.9.7",
+    "samlp": "^6.0.2",
+    "xpath": "0.0.5"
+  }
+}

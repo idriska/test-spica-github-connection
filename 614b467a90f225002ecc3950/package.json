@@ -1,0 +1,17 @@
+{
+  "name": "testo",
+  "description": "No description.",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@spica-devkit/database": "^0.9.14",
+    "asdqwe": "^1.0.1",
+    "test": "^0.6.0"
+  }
+}

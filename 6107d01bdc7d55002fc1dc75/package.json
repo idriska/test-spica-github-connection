@@ -1,0 +1,16 @@
+{
+  "name": "bucket-test",
+  "description": "Bucket Test",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "spica",
+    "function",
+    "node.js"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@spica-devkit/bucket": "^0.9.7",
+    "@spica-devkit/database": "^0.9.8"
+  }
+}
